@@ -24,23 +24,6 @@ clean-folder /path/to/folder
 
 This command will sort the files in the specified folder into separate directories based on their file extensions.
 
-## **Development**
-
-To set up a development environment for Clean Folder, clone the repository and create a new virtual environment:
-git clone https://github.com/NikitaDobry27/clean-folder.git
-cd clean-folder
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-
-```bash
-git clone https://github.com/NikitaDobry27/clean-folder.git
-cd clean-folder
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-
-```
 
 ## **Contributing**
 
